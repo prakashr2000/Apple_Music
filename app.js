@@ -576,6 +576,22 @@ const songsDb = [
         ]
     },
 
+        {
+        id: 37,
+        title: "Gehra Hua",
+        artist: "Arijit Singh, Armaan Khan, Shashwat Sachdev",
+        album: "Dhurandhar",
+        url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1785383326/Gehra_Hua_PenduJatt.Com.Se_meboin.mp3",
+        localUrl: "Songs/Gehra Hua (PenduJatt.Com.Se).mp3",
+        art: "assets/dhurandhar.jpg",
+        duration: "4:10",
+        themeColors: ["#2b5876", "#4e4376", "#141b29"],
+        lyrics: [
+            { time: 0, text: "🎵 (Emotional Piano Intro)" },
+            { time: 15, text: "Gehra hua asar tera..." },
+            { time: 32, text: "Tu paas hai toh sab hai..." }
+        ]
+    },
     {
         id: 38,
         title: "Yedho Ondru Ennai",

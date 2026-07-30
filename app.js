@@ -574,6 +574,120 @@ const songsDb = [
             { time: 15, text: "Gehra hua asar tera..." },
             { time: 32, text: "Tu paas hai toh sab hai..." }
         ]
+    },
+
+        {
+        id: 37,
+        title: "Gehra Hua",
+        artist: "Arijit Singh, Armaan Khan, Shashwat Sachdev",
+        album: "Dhurandhar",
+        url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1785383326/Gehra_Hua_PenduJatt.Com.Se_meboin.mp3",
+        localUrl: "Songs/Gehra Hua (PenduJatt.Com.Se).mp3",
+        art: "assets/dhurandhar.jpg",
+        duration: "4:10",
+        themeColors: ["#2b5876", "#4e4376", "#141b29"],
+        lyrics: [
+            { time: 0, text: "🎵 (Emotional Piano Intro)" },
+            { time: 15, text: "Gehra hua asar tera..." },
+            { time: 32, text: "Tu paas hai toh sab hai..." }
+        ]
+    },
+    {
+        id: 38,
+        title: "Yedho Ondru Ennai",
+        artist: "Hariharan",
+        album: "Paiyaa",
+        url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1785397486/Yedho-Ondru-Ennai_zbvcas.mp3",
+        localUrl: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1785397486/Yedho-Ondru-Ennai_zbvcas.mp3",
+        art: "assets/paiyaa.jpg",
+        duration: "4:58",
+        themeColors: ["#0f2027", "#203a43", "#2c5364"],
+        lyrics: [
+            { time: 0, text: "🎵 (Soft Piano & Violin)" },
+            { time: 10, text: "Yedho ondru ennai ketpaen..." },
+            { time: 25, text: "Innum innum unnai ketpaen..." }
+        ]
+    },
+    {
+        id: 39,
+        title: "Adada Mazhaida",
+        artist: "Rahul Nambiar, Saindhavi",
+        album: "Paiyaa",
+        url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1785397495/Adada-Mazhaida_g5zx64.mp3",
+        localUrl: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1785397495/Adada-Mazhaida_g5zx64.mp3",
+        art: "assets/paiyaa.jpg",
+        duration: "4:06",
+        themeColors: ["#3a7bd5", "#3a6073", "#121b2b"],
+        lyrics: [
+            { time: 0, text: "🎵 (Upbeat Rain Beats)" },
+            { time: 8, text: "Adada mazhaida adaida mazhaida..." },
+            { time: 22, text: "Azhaga siricha puliya maramum pookkumda..." }
+        ]
+    },
+    {
+        id: 40,
+        title: "En Kadhal Solla",
+        artist: "Yuvanshankar Raja, Tanvi Shah",
+        album: "Paiyaa",
+        url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1785397497/En-Kadhal-Solla_la7d0u.mp3",
+        localUrl: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1785397497/En-Kadhal-Solla_la7d0u.mp3",
+        art: "assets/paiyaa.jpg",
+        duration: "4:32",
+        themeColors: ["#e65c00", "#f9d423", "#1a0f00"],
+        lyrics: [
+            { time: 0, text: "🎵 (Acoustic Guitar Strumming)" },
+            { time: 12, text: "En kadhal solla neram illai..." },
+            { time: 28, text: "Un kadhal solla thevai illai..." }
+        ]
+    },
+    {
+        id: 41,
+        title: "Suthuthe Suthuthe Bhoomi",
+        artist: "Karthik, Sunitha Sarathy",
+        album: "Paiyaa",
+        url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1785397498/Suthuthe-Suthuthe-Bhoomi_jqdzjw.mp3",
+        localUrl: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1785397498/Suthuthe-Suthuthe-Bhoomi_jqdzjw.mp3",
+        art: "assets/paiyaa.jpg",
+        duration: "4:50",
+        themeColors: ["#8e2de2", "#4a00e0", "#110033"],
+        lyrics: [
+            { time: 0, text: "🎵 (Fast-paced Club Beats)" },
+            { time: 14, text: "Suthuthe suthuthe bhoomi..." },
+            { time: 29, text: "Suthiye vanthathaal saami..." }
+        ]
+    },
+    {
+        id: 42,
+        title: "Poongatre Poongatre",
+        artist: "Benny Dayal",
+        album: "Paiyaa",
+        url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1785397507/Poongatre-Poongatre_gykrcq.mp3",
+        localUrl: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1785397507/Poongatre-Poongatre_gykrcq.mp3",
+        art: "assets/paiyaa.jpg",
+        duration: "4:55",
+        themeColors: ["#11998e", "#38ef7d", "#082a1b"],
+        lyrics: [
+            { time: 0, text: "🎵 (Breezy Instrumental Melody)" },
+            { time: 10, text: "Poongatre poongatre unnaal..." },
+            { time: 24, text: "En Nenjai thottathu ennaal..." }
+        ]
+    },
+    {
+        id: 43,
+        title: "Thuli Thuli Mazhaiyaai",
+        artist: "Haricharan, Tanvi Shah",
+        album: "Paiyaa",
+        url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1785397581/Thuli-Thuli-Mazhaiyaai_gcqopk.mp3",
+        localUrl: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1785397581/Thuli-Thuli-Mazhaiyaai_gcqopk.mp3",
+        art: "assets/paiyaa.jpg",
+        duration: "4:25",
+        themeColors: ["#00c6ff", "#0072ff", "#00204d"],
+        lyrics: [
+            { time: 0, text: "🎵 (Classic Yuvan Soft Melodic Chimes)" },
+            { time: 8, text: "Thuli thuli thuli mazhaiyaai vanthaalae..." },
+            { time: 18, text: "En thozhi thozhi thozhi ena vanthaalae..." },
+            { time: 26, text: "Poo pookkum saalaichalai..." }
+        ]
     }
 ];
 

@@ -574,7 +574,7 @@ const songsDb = [
             { time: 15, text: "Gehra hua asar tera..." },
             { time: 32, text: "Tu paas hai toh sab hai..." }
         ]
-    }
+    },
 
     {
         id: 38,

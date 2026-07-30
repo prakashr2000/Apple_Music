@@ -350,10 +350,10 @@ const songsDb = [
         id: 23,
         title: "Kannukulla",
         artist: "Vijay Prakash, A. R. Rahman",
-        album: "Album",
+        album: "Dude",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780999257/Kannukulla_bfqqeq.mp3",
         localUrl: "Songs/Kannukulla.mp3",
-        art: "assets/kannazhaga.png",
+        art: "assets/dude.jpg",
         duration: "4:40",
         themeColors: ["#0a2e5c", "#00decb", "#050f1f"],
         lyrics: [

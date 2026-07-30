@@ -9,7 +9,7 @@ const songsDb = [
         album: "Jana nayagan",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780993580/Oru-Pere-Varalaaru-MassTamilan.dev_rzbtkn.mp3",
         localUrl: "Songs/Oru-Pere-Varalaaru-MassTamilan.dev.mp3",
-        art: "assets/oru_pere_varalaaru.png",
+        art: "assets/janayagan.jpg",
         duration: "3:53",
         themeColors: ["#d38312", "#a83279", "#111111"],
         lyrics: [
@@ -65,7 +65,7 @@ const songsDb = [
         album: "Jana Nayagan",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780993566/Thalapathy_Kacheri_ddimch.mp3",
         localUrl: "Songs/Thalapathy Kacheri.mp3",
-        art: "assets/thalapathy_kacheri.png",
+        art: "assets/janayagan.jpg",
         duration: "3:12",
         themeColors: ["#f857a6", "#ff5858", "#1c0d12"],
         lyrics: [
@@ -95,7 +95,7 @@ const songsDb = [
         album: "Jana nayagan",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780993559/Chella-Magale-MassTamilan.dev_ldob0w.mp3",
         localUrl: "Songs/Chella-Magale-MassTamilan.dev.mp3",
-        art: "assets/chella_magale.png",
+        art: "assets/janayagan.jpg",
         duration: "3:48",
         themeColors: ["#ff9966", "#ff5e62", "#1e0f0c"],
         lyrics: [
@@ -110,7 +110,7 @@ const songsDb = [
         album: "Jana Nayagan",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780993542/Raavana-Mavandaa-MassTamilan.dev_ibkold.mp3",
         localUrl: "Songs/Raavana-Mavandaa-MassTamilan.dev.mp3",
-        art: "assets/oru_pere_varalaaru.png",
+        art: "assets/janayagan.jpg",
         duration: "4:19",
         themeColors: ["#e65c00", "#f9d423", "#1f0900"],
         lyrics: [
@@ -125,7 +125,7 @@ const songsDb = [
         album: "DC",
         url: "Songs/Raga of Revenge.mp3",
         localUrl: "Songs/Raga of Revenge.mp3",
-        art: "assets/thalapathy_kacheri.png",
+        art: "assets/DC.jpg",
         duration: "2:21",
         themeColors: ["#c31432", "#240b36", "#0f0105"],
         lyrics: [
@@ -139,7 +139,7 @@ const songsDb = [
         album: "Ambikapathy",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780999342/Unnaal-Unnaal_v2sgq0.mp3",
         localUrl: "Songs/Unnaal-Unnaal.mp3",
-        art: "assets/chella_magale.png",
+        art: "assets/ambikapathy.jpg",
         duration: "3:45",
         themeColors: ["#ff9966", "#ff5e62", "#1e0f0c"],
         lyrics: [
@@ -155,7 +155,7 @@ const songsDb = [
         album: "24",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780999342/Mei-Nigara_xzkxhi.mp3",
         localUrl: "Songs/Mei-Nigara.mp3",
-        art: "assets/nee_paartha_vizhigal.png",
+        art: "assets/24.jpg",
         duration: "4:00",
         themeColors: ["#ff007b", "#ff7b00", "#1a0826"],
         lyrics: [
@@ -171,7 +171,7 @@ const songsDb = [
         album: "Alaipayuthey",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780999338/Yaro-Yarodi_wtrk7v.mp3",
         localUrl: "Songs/Yaro-Yarodi.mp3",
-        art: "assets/kannazhaga.png",
+        art: "assets/Alaipayuthey.jpg",
         duration: "5:46",
         themeColors: ["#0a2e5c", "#00decb", "#050f1f"],
         lyrics: [
@@ -187,7 +187,7 @@ const songsDb = [
         album: "Alaipayuthey",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780999342/Evano-Oruvan-Vasikiran_cfefgb.mp3",
         localUrl: "Songs/Evano-Oruvan-Vasikiran.mp3",
-        art: "assets/enakenna_yaarum_illaye.png",
+        art: "assets/Alaipayuthey.jpg",
         duration: "5:56",
         themeColors: ["#00c6ff", "#0072ff", "#000c1c"],
         lyrics: [
@@ -203,7 +203,7 @@ const songsDb = [
         album: "Ayutha Ezhuthu",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780999329/Sanda-Kozhi_x22nc3.mp3",
         localUrl: "Songs/Sanda-Kozhi.mp3",
-        art: "assets/thalapathy_kacheri.png",
+        art: "assets/aythaezhuthu.jpg",
         duration: "4:56",
         themeColors: ["#f857a6", "#ff5858", "#1c0d12"],
         lyrics: [
@@ -218,7 +218,7 @@ const songsDb = [
         album: "Alaipayuthey",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780999320/Kadhal-Sadugudu_voqbr3.mp3",
         localUrl: "Songs/Kadhal-Sadugudu.mp3",
-        art: "assets/nee_paartha_vizhigal.png",
+        art: "assets/Alaipayuthey.jpg",
         duration: "4:35",
         themeColors: ["#ff007b", "#ff7b00", "#1a0826"],
         lyrics: [
@@ -234,7 +234,7 @@ const songsDb = [
         album: "Alaipayuthey",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780999308/September-Madham_kk25ol.mp3",
         localUrl: "Songs/September-Madham.mp3",
-        art: "assets/kannazhaga.png",
+        art: "assets/Alaipayuthey.jpg",
         duration: "5:08",
         themeColors: ["#0a2e5c", "#00decb", "#050f1f"],
         lyrics: [
@@ -249,7 +249,7 @@ const songsDb = [
         album: "Ayutha Ezhuthu",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780999307/Jana-Gana-Mana_bffzo4.mp3",
         localUrl: "Songs/Jana-Gana-Mana.mp3",
-        art: "assets/oru_pere_varalaaru.png",
+        art: "assets/aythaezhuthu.jpg",
         duration: "4:02",
         themeColors: ["#d38312", "#a83279", "#111111"],
         lyrics: [
@@ -264,7 +264,7 @@ const songsDb = [
         album: "24",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780999296/Naan-Un_miqzf4.mp3",
         localUrl: "Songs/Naan-Un.mp3",
-        art: "assets/chella_magale.png",
+        art: "assets/24.jpg",
         duration: "4:48",
         themeColors: ["#ff9966", "#ff5e62", "#1e0f0c"],
         lyrics: [
@@ -279,7 +279,7 @@ const songsDb = [
         album: "Ayutha Ezhuthu",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780999287/Yakkai-Thiri_mz3nw3.mp3",
         localUrl: "Songs/Yakkai-Thiri.mp3",
-        art: "assets/oru_pere_varalaaru.png",
+        art: "assets/aythaezhuthu.jpg",
         duration: "4:34",
         themeColors: ["#e65c00", "#f9d423", "#1f0900"],
         lyrics: [
@@ -294,7 +294,7 @@ const songsDb = [
         album: "Alaipayuthey",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780999287/Snehidhane_jfq2pf.mp3",
         localUrl: "Songs/Snehidhane.mp3",
-        art: "assets/nee_paartha_vizhigal.png",
+        art: "assets/Alaipayuthey.jpg",
         duration: "6:05",
         themeColors: ["#ff007b", "#ff7b00", "#1a0826"],
         lyrics: [
@@ -309,7 +309,7 @@ const songsDb = [
         album: "Alaipayuthey",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780999273/Endrendrum-Punnagai_uekkzn.mp3",
         localUrl: "Songs/Endrendrum-Punnagai.mp3",
-        art: "assets/enakenna_yaarum_illaye.png",
+        art: "assets/Alaipayuthey.jpg",
         duration: "4:00",
         themeColors: ["#00c6ff", "#0072ff", "#000c1c"],
         lyrics: [
@@ -324,7 +324,7 @@ const songsDb = [
         album: "Ambikapathy",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780999266/Ambikapathy_yqyy6i.mp3",
         localUrl: "Songs/Ambikapathy.mp3",
-        art: "assets/thalapathy_kacheri.png",
+        art: "assets/ambikapathy.jpg",
         duration: "4:15",
         themeColors: ["#f857a6", "#ff5858", "#1c0d12"],
         lyrics: [
@@ -350,7 +350,7 @@ const songsDb = [
         id: 23,
         title: "Kannukulla",
         artist: "Vijay Prakash, A. R. Rahman",
-        album: "Maryan",
+        album: "Album",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780999257/Kannukulla_bfqqeq.mp3",
         localUrl: "Songs/Kannukulla.mp3",
         art: "assets/kannazhaga.png",
@@ -368,7 +368,7 @@ const songsDb = [
         album: "Dude",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780999252/Oorum_Blood_wm24mz.mp3",
         localUrl: "Songs/Oorum Blood.mp3",
-        art: "assets/oru_pere_varalaaru.png",
+        art: "assets/dude.jpg",
         duration: "3:56",
         themeColors: ["#e65c00", "#f9d423", "#1f0900"],
         lyrics: [
@@ -379,10 +379,10 @@ const songsDb = [
         id: 25,
         title: "Kannukulla Reprise",
         artist: "A. R. Rahman",
-        album: "Maryan",
+        album: "Dude",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780999249/Kannukulla_Reprise_qy4py9.mp3",
         localUrl: "Songs/Kannukulla (Reprise).mp3",
-        art: "assets/kannazhaga.png",
+        art: "assets/dude.jpg",
         duration: "3:02",
         themeColors: ["#0a2e5c", "#00decb", "#050f1f"],
         lyrics: [
@@ -396,7 +396,7 @@ const songsDb = [
         album: "Karuppu",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780999235/Karuppa_Kooda_Va_wzeegk.mp3",
         localUrl: "Songs/Karuppa Kooda Va.mp3",
-        art: "assets/karrupu.jpg",
+        art: "assets/karuppu.jpg",
         duration: "4:12",
         themeColors: ["#f857a6", "#ff5858", "#1c0d12"],
         lyrics: [
@@ -410,7 +410,7 @@ const songsDb = [
         album: "Dude",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780999233/Singari_dr0stu.mp3",
         localUrl: "Songs/Singari.mp3",
-        art: "assets/chella_magale.png",
+        art: "assets/dude.jpg",
         duration: "3:44",
         themeColors: ["#ff9966", "#ff5e62", "#1e0f0c"],
         lyrics: [
@@ -424,7 +424,7 @@ const songsDb = [
         album: "Karuppu",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780999218/Naanga_Naalu_Peru_jkhjxn.mp3",
         localUrl: "Songs/Naanga Naalu Peru.mp3",
-        art: "assets/karuppu",
+        art: "assets/karuppu.jpg",
         duration: "4:22",
         themeColors: ["#d38312", "#a83279", "#111111"],
         lyrics: [
@@ -438,7 +438,7 @@ const songsDb = [
         album: "Alaipayuthey",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780999211/Mangalyam-Tantunanena_wjvrgg.mp3",
         localUrl: "Songs/Mangalyam-Tantunanena.mp3",
-        art: "assets/kannazhaga.png",
+        art: "assets/Alaipayuthey.jpg",
         duration: "3:10",
         themeColors: ["#0a2e5c", "#00decb", "#050f1f"],
         lyrics: [

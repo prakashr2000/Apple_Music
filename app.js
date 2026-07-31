@@ -927,6 +927,8 @@ const songsDb = [
     lyrics: [{ time: 0, text: "🎵 Lyrics coming soon..." }]
 }
 
+];
+
 // 2. Global State Variables
 let currentSongIndex = -1;
 let isPlaying = false;

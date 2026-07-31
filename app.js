@@ -32,7 +32,7 @@ const songsDb = [
         album: "3 (Three)",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780993577/Nee_Paartha_Vizhigal_The_Touch_of_Love_qzb2kb.mp3",
         localUrl: "Songs/Nee Paartha Vizhigal (The Touch of Love).mp3",
-        art: "assets/nee_paartha_vizhigal.png",
+        art: "assets/3.jpg",
         duration: "4:39",
         themeColors: ["#ff007b", "#ff7b00", "#1a0826"],
         lyrics: [
@@ -49,7 +49,7 @@ const songsDb = [
         album: "3 (Three)",
         url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1780993569/Kannazhaga_The_Kiss_of_Love_jaevmw.mp3",
         localUrl: "Songs/Kannazhaga (The Kiss of Love).mp3",
-        art: "assets/kannazhaga.png",
+        art: "assets/3.jpg",
         duration: "3:29",
         themeColors: ["#0a2e5c", "#00decb", "#050f1f"],
         lyrics: [

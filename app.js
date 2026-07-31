@@ -738,7 +738,7 @@ const songsDb = [
     id: 49,
     title: "Verappa (Extended)",
     artist: "A. R. Rahman",
-    album: "Enthiran",
+    album: "Karuppu",
     url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1785465598/Verappa_-_Extended_usumnk.mp3",
     localUrl: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1785465598/Verappa_-_Extended_usumnk.mp3",
     art: "assets/karuppu.jpg",
@@ -750,7 +750,7 @@ const songsDb = [
     id: 50,
     title: "Verappa",
     artist: "A. R. Rahman",
-    album: "Enthiran",
+    album: "Karuppu",
     url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1785465590/Verappa_eow7qx.mp3",
     localUrl: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1785465590/Verappa_eow7qx.mp3",
     art: "assets/karuppu.jpg",
@@ -810,7 +810,7 @@ const songsDb = [
     id: 55,
     title: "Raathu Raasan",
     artist: "A. R. Rahman",
-    album: "Enthiran",
+    album: "Karuppu",
     url: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1785465506/Raathu_Raasan_gzbrt0.mp3",
     localUrl: "https://res.cloudinary.com/dm0nc31ta/video/upload/v1785465506/Raathu_Raasan_gzbrt0.mp3",
     art: "assets/karuppu.jpg",
@@ -926,7 +926,6 @@ const songsDb = [
     themeColors: ["#8e44ad", "#3498db", "#121212"],
     lyrics: [{ time: 0, text: "🎵 Lyrics coming soon..." }]
 }
-
 ];
 
 // 2. Global State Variables
